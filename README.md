@@ -53,7 +53,12 @@ install.packages(c("optparse", "ggplot2", "reshape2", "gridExtra"))
 
 - This code is intended to explore the behavior of the paradox in a probabilistic setting.
 - The plot clearly illustrates the difference in long-term average payoffs between sticking and switching approaches 0, thus it indicates that the situation is indeed symmetric and switching your choice is not of advantange.
-  
----
+
+## References
+
+- [YouTube video on the Two-Envelope Problem](https://www.youtube.com/watch?v=_NGPncypY68)
+- [Wikipedia: Two Envelopes Problem](https://en.wikipedia.org/wiki/Two_envelopes_problem)
+
+
 
 
