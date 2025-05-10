@@ -112,7 +112,7 @@ if (!interactive()){
   
 
   
-  ggsave("plots/two_envelope_plot.jpg",
+  ggsave(paste0("plots/two_envelope_plot_m-",opt$multiplier,".jpg"),
          plot = grid.arrange(plot_main, plot_diff, ncol = 1),
          width = 12, height = 12, dpi = 300, create.dir = TRUE)
   
