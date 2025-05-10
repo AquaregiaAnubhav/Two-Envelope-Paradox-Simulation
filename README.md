@@ -49,11 +49,11 @@ Make sure to install the required R libraries:
 install.packages(c("optparse", "ggplot2", "reshape2", "gridExtra"))
 ```
 
-## Notes
+## Remarks
 
 - This code is intended to explore the behavior of the paradox in a probabilistic setting.
-- The plot clearly illustrates the difference in long-term average payoffs between sticking and switching.
-
+- The plot clearly illustrates the difference in long-term average payoffs between sticking and switching approaches 0, thus it indicates that the situation is indeed symmetric and switching your choice is not of advantange.
+  
 ---
 
-*Generated: 2025-05-10 09:53:12*
+
